@@ -1,0 +1,72 @@
+[
+    {
+        "show_title": "Frasier",
+        "show_id": 61456196,
+	"active": false
+    },
+    {
+        "show_title": "Cheers",
+        "show_id": 61456194,
+	"active": false
+    },
+    {
+        "show_title": "Toushed by an Angel",
+        "show_id": 61456223,
+	"active": true
+    },
+    {
+        "show_title": "MacGyver NEW",
+        "show_id": 61456289,
+	"active": true
+    },
+    {
+        "show_title": "MacGyver",
+        "show_id": 22924,
+	"active": false
+    },
+    {
+        "show_title": "Star Trek Voyager",
+        "show_id": 216818,
+	"active": true
+    },
+    {
+        "show_title": "Star Trek NG",
+        "show_id": 216813,
+	"active": true
+    },
+    {
+        "show_title": "Star Trek Enterprise",
+        "show_id": 42721,
+	"active": true
+    },
+    {
+        "show_title": "Star Trek Discovery",
+        "show_id": 61456261,
+	"active": true
+    },
+    {
+        "show_title": "Star Trek OG",
+        "show_id": 22927,
+	"active": true
+    },
+    {
+        "show_title": "Perry Mason",
+        "show_id": 22926,
+	"active": true
+    },
+    {
+        "show_title": "Madam Secretary",
+        "show_id": 61456182,
+	"active": true
+    },
+    {
+        "show_title": "Elementary",
+        "show_id": 111381,
+	"active": true
+    },
+    {
+        "show_title": "Blue Bloods",
+        "show_id": 42505,
+	"active": true
+    }
+]
