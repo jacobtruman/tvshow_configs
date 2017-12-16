@@ -12,25 +12,25 @@
 	{
 		"show_title": "Toushed by an Angel",
 		"show_id": 61456223,
-		"active": true
+		"active": false
 	},
 	{
-		"show_title": "MacGyver NEW",
+		"show_title": "MacGyver",
 		"show_id": 61456289,
 		"active": true
 	},
 	{
-		"show_title": "MacGyver",
+		"show_title": "MacGyver Classic",
 		"show_id": 22924,
 		"active": false
 	},
 	{
 		"show_title": "Star Trek Voyager",
 		"show_id": 216818,
-		"active": true
+		"active": false
 	},
 	{
-		"show_title": "Star Trek NG",
+		"show_title": "Star Trek Next Generation",
 		"show_id": 216813,
 		"active": true
 	},
@@ -45,7 +45,7 @@
 		"active": true
 	},
 	{
-		"show_title": "Star Trek OG",
+		"show_title": "Star Trek Classic",
 		"show_id": 22927,
 		"active": true
 	},
