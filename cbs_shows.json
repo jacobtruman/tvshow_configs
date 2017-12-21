@@ -32,17 +32,17 @@
 	{
 		"show_title": "Star Trek Enterprise",
 		"show_id": 42721,
-		"active": true
+		"active": false
 	},
 	{
 		"show_title": "Star Trek Discovery",
 		"show_id": 61456261,
-		"active": true
+		"active": false
 	},
 	{
 		"show_title": "Star Trek Classic",
 		"show_id": 22927,
-		"active": true
+		"active": false
 	},
 	{
 		"show_title": "Perry Mason",
