@@ -1,73 +1,77 @@
-[
-	{
-		"show_title": "Frasier",
-		"show_id": 61456196,
-		"active": false
-	},
-	{
-		"show_title": "Cheers",
-		"show_id": 61456194,
-		"active": false
-	},
-	{
-		"show_title": "Touched by an Angel",
-		"show_id": 61456223,
-		"active": false
-	},
-	{
-		"show_title": "MacGyver Classic",
-		"show_id": 22924,
-		"active": false
-	},
-	{
-		"show_title": "Star Trek Voyager",
-		"show_id": 216818,
-		"active": false
-	},
-	{
-		"show_title": "Star Trek Next Generation",
-		"show_id": 216813,
-		"active": false
-	},
-	{
-		"show_title": "Star Trek Enterprise",
-		"show_id": 42721,
-		"active": false
-	},
-	{
-		"show_title": "Star Trek Discovery",
-		"show_id": 61456261,
-		"active": false
-	},
-	{
-		"show_title": "Star Trek Classic",
-		"show_id": 22927,
-		"active": false
-	},
-	{
-		"show_title": "Perry Mason",
-		"show_id": 22926,
-		"active": false
-	},
-	{
-		"show_title": "MacGyver",
-		"show_id": 61456289,
-		"active": true
-	},
-	{
-		"show_title": "Madam Secretary",
-		"show_id": 61456182,
-		"active": true
-	},
-	{
-		"show_title": "The Big Bang Theory",
-		"show_id": 237972,
-		"single_season": true,
-		"active": true
-	},
-	{
-		"show_title": "Blue Bloods",
-		"show_id": 42505,
-		"active": true
-	}
-]
+{
+	"network": "CBS",
+	"method": "getCBSShows",
+	"shows": [
+		{
+			"show_title": "Frasier",
+			"show_id": 61456196,
+			"active": false
+		},
+		{
+			"show_title": "Cheers",
+			"show_id": 61456194,
+			"active": false
+		},
+		{
+			"show_title": "Touched by an Angel",
+			"show_id": 61456223,
+			"active": false
+		},
+		{
+			"show_title": "MacGyver Classic",
+			"show_id": 22924,
+			"active": false
+		},
+		{
+			"show_title": "Star Trek Voyager",
+			"show_id": 216818,
+			"active": false
+		},
+		{
+			"show_title": "Star Trek Next Generation",
+			"show_id": 216813,
+			"active": false
+		},
+		{
+			"show_title": "Star Trek Enterprise",
+			"show_id": 42721,
+			"active": false
+		},
+		{
+			"show_title": "Star Trek Discovery",
+			"show_id": 61456261,
+			"active": false
+		},
+		{
+			"show_title": "Star Trek Classic",
+			"show_id": 22927,
+			"active": false
+		},
+		{
+			"show_title": "Perry Mason",
+			"show_id": 22926,
+			"active": false
+		},
+		{
+			"show_title": "MacGyver",
+			"show_id": 61456289,
+			"active": true
+		},
+		{
+			"show_title": "Madam Secretary",
+			"show_id": 61456182,
+			"active": true
+		},
+		{
+			"show_title": "The Big Bang Theory",
+			"show_id": 237972,
+			"single_season": true,
+			"active": true
+		},
+		{
+			"show_title": "Blue Bloods",
+			"show_id": 42505,
+			"active": true
+		}
+	]
+}

@@ -1,17 +1,21 @@
-[
-	{
-		"show_title": "The Good Place",
-		"show_id": "407db87c-575c-40da-a382-ff3c222b2655",
-		"active": true
-	},
-	{
-		"show_title": "This Is Us",
-		"show_id": "e8e105a3-7060-42eb-9872-6d43102bb703",
-		"active": true
-	},
-	{
-		"show_title": "Will And Grace",
-		"show_id": "619b5230-a025-4ff4-93a6-20a4f4efb18c",
-		"active": false
-	}
-]
+{
+	"network": "NBC",
+	"method": "getNBCShows",
+	"shows": [
+		{
+			"show_title": "The Good Place",
+			"show_id": "407db87c-575c-40da-a382-ff3c222b2655",
+			"active": true
+		},
+		{
+			"show_title": "This Is Us",
+			"show_id": "e8e105a3-7060-42eb-9872-6d43102bb703",
+			"active": true
+		},
+		{
+			"show_title": "Will And Grace",
+			"show_id": "619b5230-a025-4ff4-93a6-20a4f4efb18c",
+			"active": false
+		}
+	]
+}

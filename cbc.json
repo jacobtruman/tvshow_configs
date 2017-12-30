@@ -1,7 +1,11 @@
-[
-	{
-		"show_title": "Heartland",
-		"show_id": "heartland",
-		"active": true
-	}
-]
+{
+	"network": "CBC",
+	"method": "getCBCShows",
+	"shows": [
+		{
+			"show_title": "Heartland",
+			"show_id": "heartland",
+			"active": true
+		}
+	]
+}

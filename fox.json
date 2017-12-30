@@ -1,7 +1,12 @@
-[
-	{
-		"show_title": "The Orville",
-		"show_id": "the-orville",
-		"active": true
-	}
-]
+{
+	"network": "FOX",
+	"method": "getFOXShows",
+	"apiKey": "abdcbed02c124d393b39e818a4312055",
+	"shows": [
+		{
+			"show_title": "The Orville",
+			"show_id": "the-orville",
+			"active": true
+		}
+	]
+}

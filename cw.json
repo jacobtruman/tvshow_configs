@@ -1,27 +1,31 @@
-[
-	{
-		"show_title": "Supergirl",
-		"show_id": "supergirl",
-		"active": true
-	},
-	{
-		"show_title": "The Flash",
-		"show_id": "the-flash",
-		"active": true
-	},
-	{
-		"show_title": "DCs Legends of Tomorrow",
-		"show_id": "dcs-legends-of-tomorrow",
-		"active": true
-	},
-	{
-		"show_title": "Arrow",
-		"show_id": "arrow",
-		"active": true
-	},
-	{
-		"show_title": "Black Lightning",
-		"show_id": "black-lightning",
-		"active": true
-	}
-]
+{
+	"network": "CW",
+	"method": "getCWShows",
+	"shows": [
+		{
+			"show_title": "Supergirl",
+			"show_id": "supergirl",
+			"active": true
+		},
+		{
+			"show_title": "The Flash",
+			"show_id": "the-flash",
+			"active": true
+		},
+		{
+			"show_title": "DCs Legends of Tomorrow",
+			"show_id": "dcs-legends-of-tomorrow",
+			"active": true
+		},
+		{
+			"show_title": "Arrow",
+			"show_id": "arrow",
+			"active": true
+		},
+		{
+			"show_title": "Black Lightning",
+			"show_id": "black-lightning",
+			"active": true
+		}
+	]
+}

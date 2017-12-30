@@ -1,27 +1,31 @@
-[
-	{
-		"show_title": "Designated Survivor",
-		"show_id": "designated-survivor",
-		"active": true
-    },
-    {
-		"show_title": "Reaper",
-		"show_id": "reaper",
-		"active": true
-    },
-    {
-		"show_title": "Modern Family",
-		"show_id": "modern-family",
-		"active": true
-    },
-    {
-		"show_title": "Marvels Inhumans",
-		"show_id": "marvels-inhumans",
-		"active": true
-    },
-    {
-		"show_title": "Flashforward",
-		"show_id": "flashforward",
-		"active": false
-    }
-]
+{
+	"network": "ABC",
+	"method": "getABCShows",
+	"shows": [
+		{
+			"show_title": "Designated Survivor",
+			"show_id": "designated-survivor",
+			"active": false
+		},
+		{
+			"show_title": "Reaper",
+			"show_id": "reaper",
+			"active": false
+		},
+		{
+			"show_title": "Modern Family",
+			"show_id": "modern-family",
+			"active": true
+		},
+		{
+			"show_title": "Marvels Inhumans",
+			"show_id": "marvels-inhumans",
+			"active": false
+		},
+		{
+			"show_title": "Flashforward",
+			"show_id": "flashforward",
+			"active": false
+		}
+	]
+}
