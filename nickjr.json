@@ -1,6 +1,7 @@
 {
 	"network": "Nick Jr",
 	"method": "getNickJrShows",
+	"active": true,
 	"shows": [
 		{
 			"show_title": "Bubble Guppies",
@@ -12,12 +13,6 @@
 			"show_title": "Peppa Pig",
 			"show_id": "peppa-pig",
 			"thetvdb_id": "79222",
-			"active": true
-		},
-		{
-			"show_title": "Shimmer and Shine",
-			"show_id": "shimmer-and-shine",
-			"thetvdb_id": "296970",
 			"active": true
 		}
 	]

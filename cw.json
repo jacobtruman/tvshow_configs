@@ -1,6 +1,7 @@
 {
 	"network": "CW",
 	"method": "getCWShows",
+	"active": true,
 	"shows": [
 		{
 			"show_title": "Supergirl",

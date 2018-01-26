@@ -1,6 +1,7 @@
 {
 	"network": "Disney Jr",
 	"method": "getDisneyJrShows",
+	"active": true,
 	"shows": [
 		{
 			"show_title": "Elena of Avalor",
@@ -13,6 +14,66 @@
 			"show_id": "SH55178812",
 			"thetvdb_id": "258111",
 			"sanitize_string": "Toy Hospital:",
+			"active": true
+		},
+		{
+			"show_title": "Sofia the First",
+			"show_id": "SH55246331",
+			"thetvdb_id": "264365",
+			"active": true
+		},
+		{
+			"show_title": "PJ Masks",
+			"show_id": "SH552340667",
+			"thetvdb_id": "300921",
+			"active": true
+		},
+		{
+			"show_title": "Jake and the Neverland Pirates",
+			"show_id": "SH55158031",
+			"thetvdb_id": "223831",
+			"active": true
+		},
+		{
+			"show_title": "Little Einsteins",
+			"show_id": "SH55158180",
+			"thetvdb_id": "78978",
+			"active": true
+		},
+		{
+			"show_title": "Octonauts",
+			"show_id": "SH55171173",
+			"thetvdb_id": "198851",
+			"active": true
+		},
+		{
+			"show_title": "Sheriff Callies Wild West",
+			"show_id": "SH55395906",
+			"thetvdb_id": "277289",
+			"active": true
+		},
+		{
+			"show_title": "Handy Manny",
+			"show_id": "SH55158022",
+			"thetvdb_id": "81587",
+			"active": true
+		},
+		{
+			"show_title": "Lights Camera Lexi",
+			"show_id": "SH553472379",
+			"thetvdb_id": "329784",
+			"active": true
+		},
+		{
+			"show_title": "Chuggington",
+			"show_id": "SH554162798",
+			"thetvdb_id": "85034",
+			"active": true
+		},
+		{
+			"show_title": "Mickey Mouse Clubhouse",
+			"show_id": "SH55158181",
+			"thetvdb_id": "79854",
 			"active": true
 		}
 	]
