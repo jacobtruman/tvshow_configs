@@ -2,6 +2,7 @@
 	"network": "NBC",
 	"method": "getNBCShows",
 	"active": true,
+	"latest": true,
 	"shows": [
 		{
 			"show_title": "The Good Place",

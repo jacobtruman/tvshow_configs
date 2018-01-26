@@ -2,6 +2,7 @@
 	"network": "Nick Jr",
 	"method": "getNickJrShows",
 	"active": true,
+	"latest": false,
 	"shows": [
 		{
 			"show_title": "Bubble Guppies",

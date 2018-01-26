@@ -2,6 +2,7 @@
 	"network": "CBC",
 	"method": "getCBCShows",
 	"active": true,
+	"latest": true,
 	"shows": [
 		{
 			"show_title": "Heartland",

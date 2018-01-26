@@ -2,6 +2,7 @@
 	"network": "HGTV",
 	"method": "getHGTVShows",
 	"active": true,
+	"latest": false,
 	"shows": [
 		{
 			"show_title": "Fixer Upper",

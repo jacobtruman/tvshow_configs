@@ -2,6 +2,7 @@
 	"network": "ABC",
 	"method": "getABCShows",
 	"active": true,
+	"latest": true,
 	"shows": [
 		{
 			"show_title": "Designated Survivor",

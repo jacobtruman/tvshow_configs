@@ -2,6 +2,7 @@
 	"network": "CBS",
 	"method": "getCBSShows",
 	"active": true,
+	"latest": true,
 	"shows": [
 		{
 			"show_title": "Frasier",

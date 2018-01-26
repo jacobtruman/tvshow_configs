@@ -2,6 +2,7 @@
 	"network": "FOX",
 	"method": "getFOXShows",
 	"active": true,
+	"latest": true,
 	"apiKey": "abdcbed02c124d393b39e818a4312055",
 	"shows": [
 		{
