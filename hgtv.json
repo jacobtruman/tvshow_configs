@@ -1,0 +1,13 @@
+{
+	"network": "HGTV",
+	"method": "getHGTVShows",
+	"active": true,
+	"shows": [
+		{
+			"show_title": "Fixer Upper",
+			"show_id": "fixer-upper",
+			"thetvdb_id": "281053",
+			"active": true
+		}
+	]
+}
