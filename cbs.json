@@ -74,6 +74,12 @@
 			"show_title": "Blue Bloods",
 			"show_id": 42505,
 			"active": true
+		},
+		{
+			"show_title": "Kevin Can Wait",
+			"show_id": 242998,
+			"single_season": true,
+			"active": true
 		}
 	]
 }
