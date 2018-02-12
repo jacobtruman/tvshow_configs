@@ -45,6 +45,7 @@
 			"show_title": "Octonauts",
 			"show_id": "SH55171173",
 			"thetvdb_id": "198851",
+			"sanitize_string": {"-": " "},
 			"active": true
 		},
 		{
