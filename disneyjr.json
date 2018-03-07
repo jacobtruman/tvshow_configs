@@ -27,6 +27,7 @@
 			"show_title": "PJ Masks",
 			"show_id": "SH552340667",
 			"thetvdb_id": "300921",
+			"sanitize_string": {" - ": "-"},
 			"active": true
 		},
 		{
