@@ -28,6 +28,11 @@
 			"show_title": "Timeless",
 			"show_id": "08d51f10-3640-4294-8c15-88bb5b4f39df",
 			"active": true
+		},
+		{
+			"show_title": "Life",
+			"show_id": "47d1756d-a971-4b83-b3e3-f5c2706d418c",
+			"active": true
 		}
 	]
 }
