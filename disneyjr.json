@@ -14,7 +14,6 @@
 			"show_title": "Doc McStuffins",
 			"show_id": "SH55178812",
 			"thetvdb_id": "258111",
-			"sanitize_string": {"Toy Hospital:": ""},
 			"active": true
 		},
 		{
@@ -27,7 +26,6 @@
 			"show_title": "PJ Masks",
 			"show_id": "SH552340667",
 			"thetvdb_id": "300921",
-			"sanitize_string": {" - ": "-"},
 			"active": true
 		},
 		{
