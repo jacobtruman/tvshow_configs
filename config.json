@@ -1,4 +1,5 @@
 {
+	"log_dir": "/raid/logs",
 	"tvdb": {
 		"apikey":"E6061D58A2DDC994",
 		"userkey":"568268FBF7FD7A74",
