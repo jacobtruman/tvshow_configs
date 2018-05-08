@@ -69,6 +69,12 @@
 			"show_id": "SH55158181",
 			"thetvdb_id": "79854",
 			"active": true
+		},
+		{
+			"show_title": "Mickey and the Roadster Racers",
+			"show_id": "SH553509457",
+			"thetvdb_id": "320725",
+			"active": true
 		}
 	]
 }
