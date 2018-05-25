@@ -1,0 +1,15 @@
+{
+	"network": "Disney Now",
+	"method": "getDisneyNowShows",
+	"active": true,
+	"latest": false,
+	"shows": [
+		{
+			"show_title": "DuckTales (2017)",
+			"show_url": "https://disneynow.go.com/shows/ducktales-disney-channel",
+			"show_id": "",
+			"thetvdb_id": "",
+			"active": true
+		}
+	]
+}
