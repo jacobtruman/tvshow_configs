@@ -6,9 +6,8 @@
 	"shows": [
 		{
 			"show_title": "DuckTales (2017)",
-			"show_url": "https://disneynow.go.com/shows/ducktales-disney-channel",
-			"show_id": "",
-			"thetvdb_id": "",
+			"show_id": "ducktales-disney-channel",
+			"thetvdb_id": "330134",
 			"active": true
 		}
 	]
