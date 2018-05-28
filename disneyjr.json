@@ -26,6 +26,7 @@
 			"show_title": "PJ Masks",
 			"show_id": "SH552340667",
 			"thetvdb_id": "300921",
+			"sanitize_string": {"pj power up": "pj powerup"},
 			"active": true
 		},
 		{
@@ -44,6 +45,7 @@
 			"show_title": "Octonauts",
 			"show_id": "SH55171173",
 			"thetvdb_id": "198851",
+			"sanitize_string": {"water bears": "waterbears"},
 			"active": true
 		},
 		{
@@ -62,12 +64,14 @@
 			"show_title": "Chuggington",
 			"show_id": "SH55169975",
 			"thetvdb_id": "85034",
+			"sanitize_string": {"smooth move": "smooth moves", "movess": "moves"},
 			"active": true
 		},
 		{
 			"show_title": "Mickey Mouse Clubhouse",
 			"show_id": "SH55158181",
 			"thetvdb_id": "79854",
+			"sanitize_string": {"goofys mars": "goofy on mars"},
 			"active": true
 		},
 		{
