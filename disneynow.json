@@ -9,6 +9,18 @@
 			"show_id": "ducktales-disney-channel",
 			"thetvdb_id": "330134",
 			"active": true
+		},
+		{
+			"show_title": "Phineas and Ferb",
+			"show_id": "phineas-and-ferb",
+			"thetvdb_id": "207551",
+			"active": false
+		},
+		{
+			"show_title": "Little Einsteins",
+			"show_id": "little-einsteins",
+			"thetvdb_id": "78978",
+			"active": true
 		}
 	]
 }
