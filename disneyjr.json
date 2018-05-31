@@ -8,6 +8,7 @@
 			"show_title": "Elena of Avalor",
 			"show_id": "SH553192573",
 			"thetvdb_id": "312964",
+			"exclude": ["elenas walt disney world resort royal welcome"],
 			"active": true
 		},
 		{
