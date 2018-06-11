@@ -11,6 +11,12 @@
 			"active": true
 		},
 		{
+			"show_title": "Dora the Explorer",
+			"show_id": "dora-the-explorer",
+			"thetvdb_id": "74697",
+			"active": true
+		},
+		{
 			"show_title": "Peppa Pig",
 			"show_id": "peppa-pig",
 			"thetvdb_id": "79222",

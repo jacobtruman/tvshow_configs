@@ -8,6 +8,7 @@
 			"show_title": "DuckTales (2017)",
 			"show_id": "ducktales-disney-channel",
 			"thetvdb_id": "330134",
+			"sanitize_string": {"beagle birthday massacre": "beagle birthday breakout"},
 			"active": true
 		},
 		{

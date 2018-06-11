@@ -15,6 +15,7 @@
 			"show_title": "Doc McStuffins",
 			"show_id": "SH55178812",
 			"thetvdb_id": "258111",
+			"sanitize_string": {"toy hospital": "", "chilly and the dude": "chllly and the dude"},
 			"active": true
 		},
 		{
