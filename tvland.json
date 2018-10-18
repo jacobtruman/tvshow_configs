@@ -1,0 +1,15 @@
+{
+	"network": "TVLand",
+	"active": true,
+	"latest": true,
+	"shows": [
+		{
+			"show_title": "The Goldbergs",
+			"show_id": "the-goldbergs",
+			"thetvdb_id": "269653",
+			"sanitize_string": {"mixtape": "mix tape"},
+			"exclude": ["meet the goldbergs"],
+			"active": true
+		}
+	]
+}
